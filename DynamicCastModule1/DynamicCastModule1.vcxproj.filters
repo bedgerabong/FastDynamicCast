@@ -17,6 +17,15 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Base1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Base2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Concrete1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -26,6 +35,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Base1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Base2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Concrete1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
